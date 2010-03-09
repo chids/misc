@@ -1,0 +1,4 @@
+Script to be placed in /etc/init.d
+
+Tested on:
+- CentOS 5.4
